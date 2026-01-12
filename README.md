@@ -2,7 +2,7 @@ remote_theme: pages-themes/hacker@v0.2.0
   
 # www.jimandcindydevore.com
 
-![](./header.jpg)
+![](images/header.jpg?raw=true)
 
 I'm out there somewhere.
 
